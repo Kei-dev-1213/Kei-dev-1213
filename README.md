@@ -1,9 +1,25 @@
+Hi! 👋 Welcome to my GitHub! 😊
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Kei-dev-1213&color=blue)
 
 ## 🚀 About Me
-- 🌱 
-- 💬 
-- 📫 お問い合わせは [email@example.com](mailto:email@example.com) まで。
+<p align="left">
+  <a href="https://github.com/Kei-dev-1213">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Kei-dev-1213" />
+  </a>
+  <a href="https://github.com/Kei-dev-1213">
+    <img height="20" src="https://img.shields.io/github/followers/Kei-dev-1213?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Kei-dev-1213">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Kei-dev-1213">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Kei-dev-1213/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/Kei-dev-1213">
+    <img height="20" src="https://badgen.org/img/zenn/Kei-dev-1213/articles?style=plastic" />
+  </a>
+</p>
 
 ## 🛠️ Skills
 - **Programming Languages:** JavaScript, TypeScript, Python

@@ -1,25 +1,5 @@
 # Hi! :wave: Welcome to my GitHub! 😊
 
-## Profile 🤴
-### Language
-- Java
-- JavaScript
-- TypeScript
-
-### Framework
-- Next.js
-- Spring Framework
-- Apache Struts2
-
-### Library
-- React
-- Bootstrap
-- Tailwind CSS
-
-### Others
-- GitHub Actions
-- ChatGPT-API
-
 ## Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/Kei-dev-1213/Kei-dev-1213/output/github-contribution-grid-snake.svg)
 

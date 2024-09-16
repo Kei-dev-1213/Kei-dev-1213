@@ -24,4 +24,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kei-dev-1213&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kei-dev-1213&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kei-dev-1213&theme=gruvbox&utcOffset=9)
-![trophy](https://github-profile-trophy.vercel.app/?username=Kei-dev-1213&theme=gruvbox)

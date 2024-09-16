@@ -1,6 +1,4 @@
 # Hi! :wave: Welcome to my GitHub! 😊
-
-## Stats :chart_with_upwards_trend:
 ![](https://raw.githubusercontent.com/Kei-dev-1213/Kei-dev-1213/output/github-contribution-grid-snake.svg)
 
 <p align="left">

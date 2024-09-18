@@ -13,9 +13,6 @@
   <a href="http://qiita.com/Kei-dev-1213">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kei-dev-1213/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/Kei-dev-1213">
-    <img height="20" src="https://badgen.org/img/zenn/Kei-dev-1213/articles?style=plastic" />
-  </a>
 </p>
 
     
